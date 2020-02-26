@@ -106,7 +106,7 @@ int main(int argc, const char* argv[]) {
 	
 	end = clock();
 	double difference = (double)(end - start)/CLOCKS_PER_SEC;
-	printf("Took %.2f seconds to process ~%.2f megabytes", difference, bytesCounter*48/1000000);
+	printf("Took %.2f seconds to process ~%.2f megabytes\n", difference, bytesCounter*48/1000000);
 	
 	
 	return EXIT_SUCCESS;
