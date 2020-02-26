@@ -1,5 +1,8 @@
 # encryptor
 simple CLI encryption tool
+assignment completed during cryptography class
+# special features
+uses intel SSE intrinsics to achieve maximum performance
 
 ```
 git clone https://github.com/kistanod/encryptor
