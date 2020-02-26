@@ -1,6 +1,6 @@
 # encryptor
 simple CLI encryption tool  
-assignment completed during cryptography class
+idea comes from assignment completed in cryptography class
 # special features
 uses intel SSE intrinsics to achieve maximum performance
 # to install run
