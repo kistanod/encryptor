@@ -1,5 +1,5 @@
 # encryptor
-simple CLI encryption tool
+simple CLI encryption tool  
 assignment completed during cryptography class
 # special features
 uses intel SSE intrinsics to achieve maximum performance
