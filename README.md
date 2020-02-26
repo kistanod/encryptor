@@ -11,6 +11,6 @@ sh install.sh
 ```
 # examples
 ```
-encryptor e superpassword < secret.txt > secret.encrypted
-encryptor d superpassword < secret.encrypted > decrypted.txt
+encryptor e superpassword secret.txt secret.encrypted
+encryptor d superpassword secret.encrypted decrypted.txt
 ```
