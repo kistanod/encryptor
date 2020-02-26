@@ -6,6 +6,7 @@ uses intel SSE intrinsics to achieve maximum performance
 # to install run
 ```
 git clone https://github.com/kistanod/encryptor
+cd encryptor
 sh install.sh
 ```
 # examples
